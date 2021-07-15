@@ -2,6 +2,6 @@ from tkinter import *
 root = Tk()
 
 root.title("Calculator")
-root.iconbitmap('C:/calculator.ico')
+root.iconbitmap('noface ico.ico')
 
 root.mainloop()
